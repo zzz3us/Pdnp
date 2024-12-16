@@ -37,3 +37,30 @@ print(encode_s)  # b'Witaj \xc5\x9awiecie'
 # b dane typu bajtowego
 print(type(encode_s))  # <class 'bytes'>
 print(encode_s.decode('utf-8'))  # Witaj Świecie
+
+imie = "Radek"
+# f - string, formatowanie tekstu
+tekst_format = f"Mam na imię {imie} i lubie pythona."
+
+tekst_format1 = f"\tMama na imię {imie}\n i lubię pythona.\b"
+print(tekst_format1)
+# \t tabulator
+# \n nowa linia
+# \b backspace
+# "	  Mama na imię Radek
+#  i lubię pythona"
+
+starszy = "Witaj %s!"  # %s - str
+print(starszy % imie)  # Witaj Radek!
+print("Witaj {}!".format(imie))  # Witaj Radek!
+
+print("Witaj", imie)  # Witaj Radek
+
+# tekst wielolinijkowy
+print("""Tekst
+    wielolinijkowy""")
+
+# "Tekst
+#     wielolinijkowy"
+"""Komentarz
+    wielolinijkowy"""
