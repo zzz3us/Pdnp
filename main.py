@@ -17,3 +17,6 @@ if __name__ == '__main__':
 # 2 x shift podręczne menu
 # wheel, theme
 # ctrl shift f10 - uruchamianie
+
+# (.venv) PS C:\Users\CSComarch\PycharmProjects\Pdnp-16-12-2024> python .\main.py
+# Hi, PyCharm
