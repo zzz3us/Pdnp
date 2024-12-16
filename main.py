@@ -20,3 +20,4 @@ if __name__ == '__main__':
 
 # (.venv) PS C:\Users\CSComarch\PycharmProjects\Pdnp-16-12-2024> python .\main.py
 # Hi, PyCharm
+
