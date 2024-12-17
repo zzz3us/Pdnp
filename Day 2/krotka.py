@@ -30,10 +30,25 @@ print(a, b)
 #
 # print(tup_2)
 
-tup_imiona = ('name1', 'name2', 'name3')
+tup_imiona = ('name2', 'name1', 'name3', 'name4', 'name5')
 print(type(tup_imiona))
 
-imie1, imie2, imie3 = tup_imiona
-print(imie1)
-print(imie2)
-print(imie3)
+# imie1, imie2, imie3 = tup_imiona
+# print(imie1)
+# print(imie2)
+# print(imie3)
+
+name1, name2, *name3 = tup_imiona
+
+print(name1, name2, name3)
+
+name1, *name2, name3 = tup_imiona
+
+print(name1, name2, name3)
+
+*name1, name2, name3 = tup_imiona
+
+print(name1, name2, name3)
+
+print(sorted(tup_imiona))
+
