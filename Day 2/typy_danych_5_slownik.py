@@ -41,3 +41,5 @@ print(dict_small)
 tekst = input('Podaj Imię:')
 print(tekst)
 
+
+
