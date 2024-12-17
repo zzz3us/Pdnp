@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39a3ac47-a7ea-499f-841e-88b282cd1cfa" name="Changes" comment="Dzień 1">
-      <change afterPath="$PROJECT_DIR$/Day 2/typy_danych_5_slownik.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/typy_danych_4_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/typy_danych_4_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/typy_danych_5_slownik.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/typy_danych_5_slownik.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734435925966</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Dzień 1">
+      <option name="closed" value="true" />
+      <created>1734439049359</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1734439049359</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
