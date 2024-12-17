@@ -99,8 +99,10 @@ print(lista1)
 # lista2 = [tekst]
 # print(lista2)
 
-krotka = tuple(lista1) #krotka to lista tylko do odczytu
+krotka = tuple(lista1) #krotka to lista tylko do odczytu, jako jednoelementowa może służyć jako stała niemodyfikowalna
 print(krotka)
+
+
 
 
 
