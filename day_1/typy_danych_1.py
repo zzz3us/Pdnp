@@ -72,6 +72,33 @@ print(bool("radek"))
 print(bool("0"))  # True
 print(bool(0))  # False
 print(bool(""))  # False
+print(bool(None))  # odpowiednik null, nic, stan nieokreslony
+
+# and - i
+# Expression    Evaluates to
+# True and True    True
+# True and False    False
+# False and True    False
+# False and False    False
+# The or Operator’s Truth Table:
+
+print(True and True)  # True
+print(True and False)  # False
+
+# or - lub
+# Expression    Evaluates to
+# True or True    True
+# True or False    True
+# False or True    True
+# False or False    False
+# The not Operator’s Truth Table:
+print(True or False)  # True
+
+# not - negacja
+# Expression    Evaluates to
+# not True    False
+# not False
+print(not False)  # True
 
 a = 8
 b = 6
