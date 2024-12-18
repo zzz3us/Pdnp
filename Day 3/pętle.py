@@ -76,3 +76,6 @@ for i in zip_list:
     print(i)
 
 print(new_list)
+
+for o, w in zipped:
+    print(o, w)
