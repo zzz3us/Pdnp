@@ -64,7 +64,15 @@ wiek = [44, 55, 32, 27, 66]
 # for i, w in zip(imiona,wiek):
 #     print(i, w)
 
-for i, (j, w) in enumerate(zip_longest(imiona,wiek), start=1):
-    print(i, j, w)
+# for i, (j, w) in enumerate(zip_longest(imiona,wiek, fillvalue=""), start=1):
+#     print(i, j, w)
 
+zip_list = zip_longest(imiona, wiek, fillvalue="")
+new_list = []
+# print(zip_list)
 
+for i in zip_list:
+    new_list.append(i)
+    print(i)
+
+print(new_list)
