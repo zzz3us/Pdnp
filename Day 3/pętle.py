@@ -1,4 +1,5 @@
 import random
+from itertools import zip_longest
 
 # # for i in range(5):
 # #     print("Tekst")
@@ -48,7 +49,22 @@ imiona = ["Radek", "Radeg", "Rodek", "Ridek", "Radok"]
 #     print(p, imiona[p])
 
 # enumerate - numeruje kolekcje i zwraca numer i element
+#
+# for i, p in enumerate(imiona, start=1):
+#     print(i, p)
 
-for i, p in enumerate(imiona, start=1):
-    print(i, p)
+imiona = ["Radek", "Radeg", "Rodek", "Ridek", "Radok", "Radik"]
+wiek = [44, 55, 32, 27, 66]
+
+# for i in imiona:
+#     a = imiona.index(i)
+#     b = wiek[a]
+#     print(i," ", b)
+
+# for i, w in zip(imiona,wiek):
+#     print(i, w)
+
+for i, (j, w) in enumerate(zip_longest(imiona,wiek), start=1):
+    print(i, j, w)
+
 
