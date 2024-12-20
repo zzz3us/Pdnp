@@ -13,3 +13,5 @@ df = pd.DataFrame(list(zip(technologies, fee, duration, discount)), columns=colu
 # print(wynik)
 print(df)
 
+df.to_excel('courses.xlsx', index=False)
+
