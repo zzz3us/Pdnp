@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39a3ac47-a7ea-499f-841e-88b282cd1cfa" name="Changes" comment="Dzień 1">
-      <change afterPath="$PROJECT_DIR$/Day 5/klasy_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/klasy_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/klasy_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/klasy_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/klasy_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,65 +52,44 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.Pierwszy.executor": "Run",
-    "Python.discount.executor": "Run",
-    "Python.kalkulator.executor": "Run",
-    "Python.klasy.executor": "Run",
-    "Python.klasy_3.executor": "Run",
-    "Python.kolekcje.executor": "Run",
-    "Python.krotka.executor": "Run",
-    "Python.petle_zadanie2.executor": "Run",
-    "Python.petle_zadanie_3.executor": "Run",
-    "Python.pliki_zadania_1.executor": "Run",
-    "Python.pliki_zadanie_2.executor": "Run",
-    "Python.pytanie.executor": "Run",
-    "Python.pętle.executor": "Run",
-    "Python.random_zadanie_1.executor": "Run",
-    "Python.slownik_pol_ang.executor": "Run",
-    "Python.slownikv2.executor": "Run",
-    "Python.typy_danych_4_set.executor": "Run",
-    "Python.typy_danych_5_slownik.executor": "Run",
-    "Python.warunek2.executor": "Run",
-    "Python.warunki.executor": "Run",
-    "Python.wyjątki.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Pierwszy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.discount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kalkulator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.klasy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.klasy_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.klasy_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kolekcje.executor&quot;: &quot;Run&quot;,
+    &quot;Python.krotka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.petle_zadanie2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.petle_zadanie_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pliki_zadania_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pliki_zadanie_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pytanie.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pętle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_zadanie_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slownik_pol_ang.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slownikv2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.typy_danych_4_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.typy_danych_5_slownik.executor&quot;: &quot;Run&quot;,
+    &quot;Python.warunek2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.warunki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wyjątki.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mateusz.kantoch\PycharmProjects\Pdnp-16-12-2024\Day 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.klasy_3">
-    <configuration name="discount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pdnp-16-12-2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/discount.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.klasy_4">
     <configuration name="klasy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pdnp-16-12-2024" />
       <option name="ENV_FILES" value="" />
@@ -148,6 +126,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/klasy_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="klasy_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pdnp-16-12-2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/klasy_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,18 +202,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.klasy_4" />
         <item itemvalue="Python.klasy_3" />
         <item itemvalue="Python.klasy" />
         <item itemvalue="Python.pliki_zadanie_2" />
         <item itemvalue="Python.pliki_zadania_1" />
-        <item itemvalue="Python.discount" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -434,7 +434,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734684423661</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Dzień 1">
+      <option name="closed" value="true" />
+      <created>1734688411063</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1734688411063</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Dzień 1">
+      <option name="closed" value="true" />
+      <created>1734688910037</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1734688910037</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
