@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39a3ac47-a7ea-499f-841e-88b282cd1cfa" name="Changes" comment="Dzień 1">
-      <change afterPath="$PROJECT_DIR$/Day 5/api_nbp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/arkusz2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/baza_danych.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/wykres1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 5/okna_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/pandas1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/pandas1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +68,7 @@
     "Python.klasy_5.executor": "Run",
     "Python.kolekcje.executor": "Run",
     "Python.krotka.executor": "Run",
+    "Python.okna_1.executor": "Run",
     "Python.pandas1.executor": "Run",
     "Python.petle_zadanie2.executor": "Run",
     "Python.petle_zadanie_3.executor": "Run",
@@ -100,7 +97,7 @@
       <recent name="C:\Users\mateusz.kantoch\PycharmProjects\Pdnp-16-12-2024\Day 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.wykres1">
+  <component name="RunManager" selected="Python.okna_1">
     <configuration name="api_nbp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pdnp-16-12-2024" />
       <option name="ENV_FILES" value="" />
@@ -167,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="okna_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pdnp-16-12-2024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/pandas1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/okna_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.okna_1" />
         <item itemvalue="Python.wykres1" />
         <item itemvalue="Python.baza_danych" />
         <item itemvalue="Python.api_nbp" />
         <item itemvalue="Python.arkusz2" />
-        <item itemvalue="Python.pandas1" />
       </list>
     </recent_temporary>
   </component>
@@ -493,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734700849297</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Dzień 1">
+      <option name="closed" value="true" />
+      <created>1734704423208</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1734704423208</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="UnknownFeatures">
