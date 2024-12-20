@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39a3ac47-a7ea-499f-841e-88b282cd1cfa" name="Changes" comment="Dzień 1">
-      <change afterPath="$PROJECT_DIR$/Day 5/klasy_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 5/csv1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 5/pandas1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +57,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.Pierwszy.executor": "Run",
+    "Python.csv1.executor": "Run",
     "Python.discount.executor": "Run",
     "Python.kalkulator.executor": "Run",
     "Python.klasy.executor": "Run",
@@ -90,8 +92,8 @@
       <recent name="C:\Users\mateusz.kantoch\PycharmProjects\Pdnp-16-12-2024\Day 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.klasy_5">
-    <configuration name="klasy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.pandas1">
+    <configuration name="csv1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pdnp-16-12-2024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/klasy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/csv1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pliki_zadanie_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pandas1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pdnp-16-12-2024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/pliki_zadanie_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/pandas1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pandas1" />
+        <item itemvalue="Python.csv1" />
         <item itemvalue="Python.klasy_5" />
         <item itemvalue="Python.klasy_4" />
         <item itemvalue="Python.klasy_3" />
-        <item itemvalue="Python.klasy" />
-        <item itemvalue="Python.pliki_zadanie_2" />
       </list>
     </recent_temporary>
   </component>
@@ -459,8 +461,19 @@
       <option name="project" value="LOCAL" />
       <updated>1734689950341</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Dzień 1">
+      <option name="closed" value="true" />
+      <created>1734694004972</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1734694004972</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dzień 1" />
